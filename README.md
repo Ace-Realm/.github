@@ -48,7 +48,7 @@ We welcome contributions across software engineering, system architecture, techn
 
 How to Join
 
-1. Read our "CONTRIBUTING.md" (./CONTRIBUTING.md) to understand our branching strategy, pull request process, and code quality standards.
+1. Read our [CONTRIBUTING.md](./CONTRIBUTING.md) to understand our branching strategy, pull request process, and code quality standards.
 2. Explore open tasks on our project board labeled "good-first-issue".
 3. Join our community channels for real-time discussions and collaboration.
 
@@ -56,13 +56,13 @@ How to Join
 
 Community & Communication
 
-- GitHub: "github.com/Ace-Realm" (https://github.com/Ace-Realm)
+- GitHub: [github.com/Ace-Realm](https://github.com/Ace-Realm)
 - Team Chat: Telegram / WhatsApp (Request an invite link from a maintainer)
 
 ---
 
 License
 
-All projects under Ace Realm are released under the "MIT License" (LICENSE) unless specified otherwise.
+All projects under Ace Realm are released under the [MIT License](LICENSE) unless specified otherwise.
 
 Individual repositories may use a different license where explicitly stated.
